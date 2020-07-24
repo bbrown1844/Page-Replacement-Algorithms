@@ -1,4 +1,4 @@
-# Page-Replacement-Algorithms-
+# Page-Replacement-Algorithms
 
 This project is designed to test different page replacement algorithms for efficiency. Four page replacement algorithms are simulated: FIFO, LRU, LFU and Random.
 
