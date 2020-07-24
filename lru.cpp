@@ -1,6 +1,6 @@
 #include "lru.h"
 
-namespace coen177_lab4
+namespace coen383
 {
   //CONSTRUCTOR
   lru::lru()

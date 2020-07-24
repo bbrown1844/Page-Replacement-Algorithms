@@ -9,10 +9,10 @@
 #include <fstream>
 #include <time.h>
 
-#ifndef COEN_177_ALGORITHMS_H
-#define COEN_177_ALGORITHMS_H
+#ifndef COEN_383_ALGORITHMS_H
+#define COEN_383_ALGORITHMS_H
 
-namespace coen177_lab4
+namespace coen383
 {
   class algorithms
   {  
@@ -43,7 +43,7 @@ namespace coen177_lab4
       int pageRequest, numElements, pageNumber, tableSize;
       int numCount;
       //*used for debugging*// 
-      // std::ofstream myfile;
+      std::ofstream myfile;
   };
 }
 

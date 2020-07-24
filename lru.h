@@ -1,9 +1,9 @@
 #include "algorithms.h"
 
-#ifndef COEN_177_LRU_H
-#define COEN_177_LRU_H
+#ifndef COEN_383_RAN_H
+#define COEN_383_RAN_H
 
-namespace coen177_lab4
+namespace coen383
 {
   class lru: public algorithms
   {  

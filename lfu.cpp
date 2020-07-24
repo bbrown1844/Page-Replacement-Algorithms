@@ -1,6 +1,6 @@
 #include "lfu.h"
 
-namespace coen177_lab4
+namespace coen383
 {
   //CONSTRUCTOR
   lfu::lfu()

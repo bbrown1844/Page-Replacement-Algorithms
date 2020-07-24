@@ -1,9 +1,9 @@
 #include "algorithms.h"
 
-#ifndef COEN_177_FIFO_H
-#define COEN_177_FIFO_H
+#ifndef COEN_383_FIFO_H
+#define COEN_383_FIFO_H
 
-namespace coen177_lab4
+namespace coen383
 {
   class fifo: public algorithms
   {  

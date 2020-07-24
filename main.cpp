@@ -6,7 +6,7 @@
 #include "lfu.h"
 #include "ran.h"
 
-using namespace coen177_lab4;
+using namespace coen383;
 
 algorithms* getAlgo(std::string algoFlag);
 
@@ -68,10 +68,10 @@ algorithms* getAlgo(std::string algoFlag)
   {
     return new lfu();
   }
-  else if (algoFlag == "-ran" || algoFlag == "-RAN")
-  {
-    return new ran();
-  }
+  // else if (algoFlag == "-ran" || algoFlag == "-RAN")
+  // {
+  //   return new ran();
+  // }
   else
     return NULL;
 }

@@ -1,9 +1,9 @@
 #include "algorithms.h"
 
-#ifndef COEN_177_LFU_H
-#define COEN_177_LFU_H
+#ifndef COEN_383_LFU_H
+#define COEN_383_LFU_H
 
-namespace coen177_lab4
+namespace coen383
 {
   class lfu: public algorithms
   {  
